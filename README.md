@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/harshr3107/DSA-/tree/master/0038-count-and-say) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/harshr3107/DSA-/tree/master/2062-count-vowel-substrings-of-a-string) |
 ## Array
 |  |
 | ------- |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2397-maximum-rows-covered-by-columns](https://github.com/harshr3107/DSA-/tree/master/2397-maximum-rows-covered-by-columns) |
+## Hash Table
+|  |
+| ------- |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/harshr3107/DSA-/tree/master/2062-count-vowel-substrings-of-a-string) |
 <!---LeetCode Topics End-->
