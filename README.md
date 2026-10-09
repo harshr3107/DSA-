@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/harshr3107/DSA-/tree/master/0010-regular-expression-matching) |
 | [0038-count-and-say](https://github.com/harshr3107/DSA-/tree/master/0038-count-and-say) |
+| [0087-scramble-string](https://github.com/harshr3107/DSA-/tree/master/0087-scramble-string) |
 | [1021-remove-outermost-parentheses](https://github.com/harshr3107/DSA-/tree/master/1021-remove-outermost-parentheses) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/harshr3107/DSA-/tree/master/2062-count-vowel-substrings-of-a-string) |
 ## Array
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/harshr3107/DSA-/tree/master/0010-regular-expression-matching) |
+| [0087-scramble-string](https://github.com/harshr3107/DSA-/tree/master/0087-scramble-string) |
 ## Recursion
 |  |
 | ------- |
