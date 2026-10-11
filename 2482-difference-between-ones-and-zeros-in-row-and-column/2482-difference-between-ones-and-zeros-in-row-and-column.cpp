@@ -43,19 +43,7 @@ public:
 
         }
 
-        for(auto it: zerorow)
-        {
-            cout<<it<<" ";
-        }
-
-        cout<<endl;
-
-        for(auto it: zerocol)
-        {
-            cout<<it<<" ";
-        }
-
-        cout<<endl;
+       
 
 
 
