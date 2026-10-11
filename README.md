@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/harshr3107/DSA-/tree/master/0010-regular-expression-matching) |
 | [0087-scramble-string](https://github.com/harshr3107/DSA-/tree/master/0087-scramble-string) |
+| [0096-unique-binary-search-trees](https://github.com/harshr3107/DSA-/tree/master/0096-unique-binary-search-trees) |
 | [0221-maximal-square](https://github.com/harshr3107/DSA-/tree/master/0221-maximal-square) |
 | [0542-01-matrix](https://github.com/harshr3107/DSA-/tree/master/0542-01-matrix) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/harshr3107/DSA-/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/harshr3107/DSA-/tree/master/0096-unique-binary-search-trees) |
 | [0633-sum-of-square-numbers](https://github.com/harshr3107/DSA-/tree/master/0633-sum-of-square-numbers) |
 ## Two Pointers
 |  |
@@ -140,4 +142,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/harshr3107/DSA-/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/harshr3107/DSA-/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/harshr3107/DSA-/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/harshr3107/DSA-/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
