@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/harshr3107/DSA-/tree/master/0010-regular-expression-matching) |
 | [0038-count-and-say](https://github.com/harshr3107/DSA-/tree/master/0038-count-and-say) |
+| [0076-minimum-window-substring](https://github.com/harshr3107/DSA-/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/harshr3107/DSA-/tree/master/0087-scramble-string) |
 | [1021-remove-outermost-parentheses](https://github.com/harshr3107/DSA-/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/harshr3107/DSA-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/harshr3107/DSA-/tree/master/0076-minimum-window-substring) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/harshr3107/DSA-/tree/master/2062-count-vowel-substrings-of-a-string) |
 ## Stack
 |  |
@@ -175,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/harshr3107/DSA-/tree/master/0207-course-schedule) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/harshr3107/DSA-/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
