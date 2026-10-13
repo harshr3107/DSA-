@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/harshr3107/DSA-/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/harshr3107/DSA-/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/harshr3107/DSA-/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/harshr3107/DSA-/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/harshr3107/DSA-/tree/master/0127-word-ladder) |
 | [0241-different-ways-to-add-parentheses](https://github.com/harshr3107/DSA-/tree/master/0241-different-ways-to-add-parentheses) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/harshr3107/DSA-/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/harshr3107/DSA-/tree/master/0010-regular-expression-matching) |
 | [0087-scramble-string](https://github.com/harshr3107/DSA-/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/harshr3107/DSA-/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/harshr3107/DSA-/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/harshr3107/DSA-/tree/master/0096-unique-binary-search-trees) |
 | [0221-maximal-square](https://github.com/harshr3107/DSA-/tree/master/0221-maximal-square) |
