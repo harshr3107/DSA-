@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/harshr3107/DSA-/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/harshr3107/DSA-/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/harshr3107/DSA-/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/harshr3107/DSA-/tree/master/0140-word-break-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/harshr3107/DSA-/tree/master/0241-different-ways-to-add-parentheses) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/harshr3107/DSA-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/harshr3107/DSA-/tree/master/0567-permutation-in-string) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/harshr3107/DSA-/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/harshr3107/DSA-/tree/master/0140-word-break-ii) |
 | [0200-number-of-islands](https://github.com/harshr3107/DSA-/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/harshr3107/DSA-/tree/master/0221-maximal-square) |
 | [0542-01-matrix](https://github.com/harshr3107/DSA-/tree/master/0542-01-matrix) |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/harshr3107/DSA-/tree/master/0095-unique-binary-search-trees-ii) |
+| [0140-word-break-ii](https://github.com/harshr3107/DSA-/tree/master/0140-word-break-ii) |
 | [2397-maximum-rows-covered-by-columns](https://github.com/harshr3107/DSA-/tree/master/2397-maximum-rows-covered-by-columns) |
 ## Bit Manipulation
 |  |
@@ -70,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/harshr3107/DSA-/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/harshr3107/DSA-/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/harshr3107/DSA-/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/harshr3107/DSA-/tree/master/0140-word-break-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/harshr3107/DSA-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/harshr3107/DSA-/tree/master/0567-permutation-in-string) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/harshr3107/DSA-/tree/master/2062-count-vowel-substrings-of-a-string) |
@@ -94,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/harshr3107/DSA-/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/harshr3107/DSA-/tree/master/0096-unique-binary-search-trees) |
 | [0139-word-break](https://github.com/harshr3107/DSA-/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/harshr3107/DSA-/tree/master/0140-word-break-ii) |
 | [0221-maximal-square](https://github.com/harshr3107/DSA-/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/harshr3107/DSA-/tree/master/0241-different-ways-to-add-parentheses) |
 | [0542-01-matrix](https://github.com/harshr3107/DSA-/tree/master/0542-01-matrix) |
@@ -145,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/harshr3107/DSA-/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/harshr3107/DSA-/tree/master/0140-word-break-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/harshr3107/DSA-/tree/master/0241-different-ways-to-add-parentheses) |
 | [0894-all-possible-full-binary-trees](https://github.com/harshr3107/DSA-/tree/master/0894-all-possible-full-binary-trees) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/harshr3107/DSA-/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
@@ -237,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/harshr3107/DSA-/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/harshr3107/DSA-/tree/master/0140-word-break-ii) |
 ## Brute-Force Search
 |  |
 | ------- |
