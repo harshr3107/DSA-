@@ -1,62 +1,37 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
 class Solution {
 public:
-
-    vector<TreeNode*> getall(int n)
-    {
-        if((n&1)==0)
-        {
+    vector<TreeNode*> getallpossible(int n) {
+        if (n % 2 == 0) {
             return {};
         }
 
-        if(n==1)
-        {
-            TreeNode* root = new TreeNode(0);
-            return {root};
+        if (n == 1) {
+            return {new TreeNode(0)};
         }
 
-        vector<TreeNode*> result;
-        for(int i=1;i<n;i+=2)
-        {
-            vector<TreeNode*> l = getall(i);
-            vector<TreeNode*> r = getall(n-i-1);
+        vector<TreeNode*> ans;
 
+        // The root uses 1 node, leaving n - 1 nodes for both subtrees.
+        for (int leftSize = 1; leftSize < n; leftSize += 2) {
+            int rightSize = n - 1 - leftSize;
 
-            for(auto it: l)
-            {
-                for(auto it2: r)
-                {
+            vector<TreeNode*> lefty = getallpossible(leftSize);
+            vector<TreeNode*> righty = getallpossible(rightSize);
+
+            for (auto it : lefty) {
+                for (auto it2 : righty) {
                     TreeNode* root = new TreeNode(0);
                     root->left = it;
-                    root->right=it2;
-
-                    result.push_back(root);
-
+                    root->right = it2;
+                    ans.push_back(root);
                 }
             }
-
         }
 
-        return result;
-
-
+        return ans;
     }
 
-
     vector<TreeNode*> allPossibleFBT(int n) {
-
-
-        return getall(n);
-        
+        return getallpossible(n);
     }
 };
