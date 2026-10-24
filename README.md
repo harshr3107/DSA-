@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/harshr3107/DSA-/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/harshr3107/DSA-/tree/master/0931-minimum-falling-path-sum) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/harshr3107/DSA-/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/harshr3107/DSA-/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1905-count-sub-islands](https://github.com/harshr3107/DSA-/tree/master/1905-count-sub-islands) |
 | [1992-find-all-groups-of-farmland](https://github.com/harshr3107/DSA-/tree/master/1992-find-all-groups-of-farmland) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/harshr3107/DSA-/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/harshr3107/DSA-/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/harshr3107/DSA-/tree/master/0931-minimum-falling-path-sum) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/harshr3107/DSA-/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/harshr3107/DSA-/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1905-count-sub-islands](https://github.com/harshr3107/DSA-/tree/master/1905-count-sub-islands) |
 | [1992-find-all-groups-of-farmland](https://github.com/harshr3107/DSA-/tree/master/1992-find-all-groups-of-farmland) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/harshr3107/DSA-/tree/master/2328-number-of-increasing-paths-in-a-grid) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/harshr3107/DSA-/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/harshr3107/DSA-/tree/master/0797-all-paths-from-source-to-target) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/harshr3107/DSA-/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/harshr3107/DSA-/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1905-count-sub-islands](https://github.com/harshr3107/DSA-/tree/master/1905-count-sub-islands) |
 | [1992-find-all-groups-of-farmland](https://github.com/harshr3107/DSA-/tree/master/1992-find-all-groups-of-farmland) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/harshr3107/DSA-/tree/master/2328-number-of-increasing-paths-in-a-grid) |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/harshr3107/DSA-/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/harshr3107/DSA-/tree/master/0797-all-paths-from-source-to-target) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/harshr3107/DSA-/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/harshr3107/DSA-/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1905-count-sub-islands](https://github.com/harshr3107/DSA-/tree/master/1905-count-sub-islands) |
 | [1992-find-all-groups-of-farmland](https://github.com/harshr3107/DSA-/tree/master/1992-find-all-groups-of-farmland) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/harshr3107/DSA-/tree/master/2328-number-of-increasing-paths-in-a-grid) |
@@ -306,4 +310,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/harshr3107/DSA-/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/harshr3107/DSA-/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
+## Articulation Point
+|  |
+| ------- |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/harshr3107/DSA-/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 <!---LeetCode Topics End-->
