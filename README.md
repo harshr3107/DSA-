@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/harshr3107/DSA-/tree/master/0472-concatenated-words) |
 | [0567-permutation-in-string](https://github.com/harshr3107/DSA-/tree/master/0567-permutation-in-string) |
 | [1021-remove-outermost-parentheses](https://github.com/harshr3107/DSA-/tree/master/1021-remove-outermost-parentheses) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/harshr3107/DSA-/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/harshr3107/DSA-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/harshr3107/DSA-/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2232-minimize-result-by-adding-parentheses-to-expression](https://github.com/harshr3107/DSA-/tree/master/2232-minimize-result-by-adding-parentheses-to-expression) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/harshr3107/DSA-/tree/master/0542-01-matrix) |
 | [0894-all-possible-full-binary-trees](https://github.com/harshr3107/DSA-/tree/master/0894-all-possible-full-binary-trees) |
 | [0931-minimum-falling-path-sum](https://github.com/harshr3107/DSA-/tree/master/0931-minimum-falling-path-sum) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/harshr3107/DSA-/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/harshr3107/DSA-/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/harshr3107/DSA-/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Recursion
