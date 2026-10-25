@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/harshr3107/DSA-/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/harshr3107/DSA-/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/harshr3107/DSA-/tree/master/0931-minimum-falling-path-sum) |
+| [1254-number-of-closed-islands](https://github.com/harshr3107/DSA-/tree/master/1254-number-of-closed-islands) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/harshr3107/DSA-/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/harshr3107/DSA-/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1905-count-sub-islands](https://github.com/harshr3107/DSA-/tree/master/1905-count-sub-islands) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/harshr3107/DSA-/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/harshr3107/DSA-/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/harshr3107/DSA-/tree/master/0931-minimum-falling-path-sum) |
+| [1254-number-of-closed-islands](https://github.com/harshr3107/DSA-/tree/master/1254-number-of-closed-islands) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/harshr3107/DSA-/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/harshr3107/DSA-/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1905-count-sub-islands](https://github.com/harshr3107/DSA-/tree/master/1905-count-sub-islands) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/harshr3107/DSA-/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/harshr3107/DSA-/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/harshr3107/DSA-/tree/master/0797-all-paths-from-source-to-target) |
+| [1254-number-of-closed-islands](https://github.com/harshr3107/DSA-/tree/master/1254-number-of-closed-islands) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/harshr3107/DSA-/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/harshr3107/DSA-/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1905-count-sub-islands](https://github.com/harshr3107/DSA-/tree/master/1905-count-sub-islands) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/harshr3107/DSA-/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/harshr3107/DSA-/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/harshr3107/DSA-/tree/master/0797-all-paths-from-source-to-target) |
+| [1254-number-of-closed-islands](https://github.com/harshr3107/DSA-/tree/master/1254-number-of-closed-islands) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/harshr3107/DSA-/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/harshr3107/DSA-/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1905-count-sub-islands](https://github.com/harshr3107/DSA-/tree/master/1905-count-sub-islands) |
@@ -169,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/harshr3107/DSA-/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/harshr3107/DSA-/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/harshr3107/DSA-/tree/master/0785-is-graph-bipartite) |
+| [1254-number-of-closed-islands](https://github.com/harshr3107/DSA-/tree/master/1254-number-of-closed-islands) |
 | [1905-count-sub-islands](https://github.com/harshr3107/DSA-/tree/master/1905-count-sub-islands) |
 ## Graph Theory
 |  |
