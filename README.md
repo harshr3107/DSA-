@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/harshr3107/DSA-/tree/master/0279-perfect-squares) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/harshr3107/DSA-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/harshr3107/DSA-/tree/master/0337-house-robber-iii) |
+| [0343-integer-break](https://github.com/harshr3107/DSA-/tree/master/0343-integer-break) |
 | [0472-concatenated-words](https://github.com/harshr3107/DSA-/tree/master/0472-concatenated-words) |
 | [0542-01-matrix](https://github.com/harshr3107/DSA-/tree/master/0542-01-matrix) |
 | [0894-all-possible-full-binary-trees](https://github.com/harshr3107/DSA-/tree/master/0894-all-possible-full-binary-trees) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/harshr3107/DSA-/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/harshr3107/DSA-/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/harshr3107/DSA-/tree/master/0279-perfect-squares) |
+| [0343-integer-break](https://github.com/harshr3107/DSA-/tree/master/0343-integer-break) |
 | [0633-sum-of-square-numbers](https://github.com/harshr3107/DSA-/tree/master/0633-sum-of-square-numbers) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/harshr3107/DSA-/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2409-count-days-spent-together](https://github.com/harshr3107/DSA-/tree/master/2409-count-days-spent-together) |
