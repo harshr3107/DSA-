@@ -1,44 +1,102 @@
 class Solution {
 public:
-    vector<int> getans(string& expression, int start, int end) {
-        vector<int> results;
-        bool hasOperator = false;
 
-        for (int j = start; j <= end; j++) {
-            if (expression[j] == '+' || expression[j] == '-' || expression[j] == '*') {
 
-                hasOperator = true;
+    vector<int> getans(string& s,int start,int end)
+    {
+        if(start>end)
+        {
+            return {};
+        }
 
-                vector<int> left = getans(expression, start, j - 1);
-                vector<int> right = getans(expression, j + 1, end);
 
-                for (int it1 : left) {
-                    for (int it2 : right) {
-                        if (expression[j] == '*') {
-                            results.push_back(it1 * it2);
-                        } else if (expression[j] == '-') {
-                            results.push_back(it1 - it2);
-                        } else {
-                            results.push_back(it1 + it2);
-                        }
+        vector<int> result;
+        int a=0;
+
+
+        for(int i=start;i<=end;i++)
+        {
+            if(s.at(i)=='+' || s.at(i)=='-' || s.at(i)=='*')
+            {
+                a++;
+
+                vector<int> left = getans(s,start,i-1);
+                vector<int> right = getans(s,i+1,end);
+
+
+
+                for(auto it: left)
+                {
+                    for(auto it2: right)
+                    {
+                         if(s.at(i)=='+')
+                         {
+                            result.push_back(it+it2);
+
+                         }else if(s.at(i)=='-')
+                         {
+                            result.push_back(it-it2);
+
+                         }else{
+
+                            result.push_back(it*it2);
+
+
+                         }
+
                     }
+
                 }
+
+
+
             }
+
+
+
+
+
+            
+
         }
 
-        // This part contains only a number.
-        if (!hasOperator) {
-            int number = 0;
-            for (int j = start; j <= end; j++) {
-                number = number * 10 + (expression[j] - '0');
+
+        if(a==0)
+        {
+            int h=0;
+            //cout<<"value of start is "<<start<<" and the end is "<<end<<endl;
+
+            while(start<=end)
+            {
+                h=h*10+(s.at(start)-'0');
+                start++;
             }
-            results.push_back(number);
+
+            //cout<<"value of h is "<<h<<endl;
+
+            result.push_back(h);
+
         }
 
-        return results;
+
+        return result; 
+        
+        
     }
 
+
     vector<int> diffWaysToCompute(string expression) {
-        return getans(expression, 0, expression.length() - 1);
+
+        //it is a question very similar to flatten a binary tree
+        int start=0;
+        int end=expression.length()-1;
+        return getans(expression,start,end);
+
+
+        
+
+
+
+        
     }
 };
