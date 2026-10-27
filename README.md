@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/harshr3107/DSA-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/harshr3107/DSA-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/harshr3107/DSA-/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3988-create-grid-with-exactly-k-paths-i](https://github.com/harshr3107/DSA-/tree/master/3988-create-grid-with-exactly-k-paths-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2397-maximum-rows-covered-by-columns](https://github.com/harshr3107/DSA-/tree/master/2397-maximum-rows-covered-by-columns) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/harshr3107/DSA-/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/harshr3107/DSA-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3988-create-grid-with-exactly-k-paths-i](https://github.com/harshr3107/DSA-/tree/master/3988-create-grid-with-exactly-k-paths-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2019-the-score-of-students-solving-math-expression](https://github.com/harshr3107/DSA-/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2409-count-days-spent-together](https://github.com/harshr3107/DSA-/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/harshr3107/DSA-/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3988-create-grid-with-exactly-k-paths-i](https://github.com/harshr3107/DSA-/tree/master/3988-create-grid-with-exactly-k-paths-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -346,4 +349,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/harshr3107/DSA-/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
+## Combinatorics
+|  |
+| ------- |
+| [3988-create-grid-with-exactly-k-paths-i](https://github.com/harshr3107/DSA-/tree/master/3988-create-grid-with-exactly-k-paths-i) |
 <!---LeetCode Topics End-->
