@@ -76,8 +76,7 @@ public:
         vector<string> combined = fans;
         combine(allPaths[index], combined);
 
-        if (countPaths(combined) <= k &&
-            choosePaths(index + 1, allPaths, combined, k, answer)) {
+        if (choosePaths(index + 1, allPaths, combined, k, answer)) {
             return true;
         }
 
