@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/harshr3107/DSA-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2397-maximum-rows-covered-by-columns](https://github.com/harshr3107/DSA-/tree/master/2397-maximum-rows-covered-by-columns) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/harshr3107/DSA-/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2555-maximize-win-from-two-segments](https://github.com/harshr3107/DSA-/tree/master/2555-maximize-win-from-two-segments) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/harshr3107/DSA-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/harshr3107/DSA-/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/harshr3107/DSA-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/harshr3107/DSA-/tree/master/0633-sum-of-square-numbers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/harshr3107/DSA-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/harshr3107/DSA-/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2555-maximize-win-from-two-segments](https://github.com/harshr3107/DSA-/tree/master/2555-maximize-win-from-two-segments) |
 ## Sorting
 |  |
 | ------- |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/harshr3107/DSA-/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/harshr3107/DSA-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/harshr3107/DSA-/tree/master/0567-permutation-in-string) |
+| [2555-maximize-win-from-two-segments](https://github.com/harshr3107/DSA-/tree/master/2555-maximize-win-from-two-segments) |
 ## Bidirectional Search
 |  |
 | ------- |
