@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/harshr3107/DSA-/tree/master/0011-container-with-most-water) |
 | [0139-word-break](https://github.com/harshr3107/DSA-/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/harshr3107/DSA-/tree/master/0140-word-break-ii) |
 | [0200-number-of-islands](https://github.com/harshr3107/DSA-/tree/master/0200-number-of-islands) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/harshr3107/DSA-/tree/master/0011-container-with-most-water) |
 | [0376-wiggle-subsequence](https://github.com/harshr3107/DSA-/tree/master/0376-wiggle-subsequence) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/harshr3107/DSA-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/harshr3107/DSA-/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/harshr3107/DSA-/tree/master/0011-container-with-most-water) |
 | [0567-permutation-in-string](https://github.com/harshr3107/DSA-/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/harshr3107/DSA-/tree/master/0633-sum-of-square-numbers) |
 ## Simulation
