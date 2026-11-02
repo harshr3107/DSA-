@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-minimize-result-by-adding-parentheses-to-expression](https://github.com/harshr3107/DSA-/tree/master/2232-minimize-result-by-adding-parentheses-to-expression) |
 | [2409-count-days-spent-together](https://github.com/harshr3107/DSA-/tree/master/2409-count-days-spent-together) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/harshr3107/DSA-/tree/master/3841-palindromic-path-queries-in-a-tree) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/harshr3107/DSA-/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Array
 |  |
 | ------- |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/harshr3107/DSA-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/harshr3107/DSA-/tree/master/0797-all-paths-from-source-to-target) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/harshr3107/DSA-/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/harshr3107/DSA-/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Memoization
 |  |
 | ------- |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/harshr3107/DSA-/tree/master/1631-path-with-minimum-effort) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/harshr3107/DSA-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/harshr3107/DSA-/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/harshr3107/DSA-/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Math
 |  |
 | ------- |
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/harshr3107/DSA-/tree/master/0787-cheapest-flights-within-k-stops) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/harshr3107/DSA-/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Bitmask
 |  |
 | ------- |
