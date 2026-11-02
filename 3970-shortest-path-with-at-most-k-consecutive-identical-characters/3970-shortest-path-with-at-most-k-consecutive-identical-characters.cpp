@@ -40,9 +40,9 @@ public:
             long long cost = current.second.second;
 
             // A better route to this exact state was found already.
-            if (cost != dist[node][kval]) {
+           /* if (cost != dist[node][kval]) {
                 continue;
-            }
+            }*/
 
             if (kval == 0) {
                 continue;
