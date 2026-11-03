@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/harshr3107/DSA-/tree/master/0399-evaluate-division) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/harshr3107/DSA-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0472-concatenated-words](https://github.com/harshr3107/DSA-/tree/master/0472-concatenated-words) |
+| [0486-predict-the-winner](https://github.com/harshr3107/DSA-/tree/master/0486-predict-the-winner) |
 | [0526-beautiful-arrangement](https://github.com/harshr3107/DSA-/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/harshr3107/DSA-/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/harshr3107/DSA-/tree/master/0733-flood-fill) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/harshr3107/DSA-/tree/master/0357-count-numbers-with-unique-digits) |
 | [0376-wiggle-subsequence](https://github.com/harshr3107/DSA-/tree/master/0376-wiggle-subsequence) |
 | [0472-concatenated-words](https://github.com/harshr3107/DSA-/tree/master/0472-concatenated-words) |
+| [0486-predict-the-winner](https://github.com/harshr3107/DSA-/tree/master/0486-predict-the-winner) |
 | [0526-beautiful-arrangement](https://github.com/harshr3107/DSA-/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/harshr3107/DSA-/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/harshr3107/DSA-/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/harshr3107/DSA-/tree/master/0010-regular-expression-matching) |
 | [0241-different-ways-to-add-parentheses](https://github.com/harshr3107/DSA-/tree/master/0241-different-ways-to-add-parentheses) |
+| [0486-predict-the-winner](https://github.com/harshr3107/DSA-/tree/master/0486-predict-the-winner) |
 | [0894-all-possible-full-binary-trees](https://github.com/harshr3107/DSA-/tree/master/0894-all-possible-full-binary-trees) |
 ## Depth-First Search
 |  |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/harshr3107/DSA-/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/harshr3107/DSA-/tree/master/0357-count-numbers-with-unique-digits) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/harshr3107/DSA-/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0486-predict-the-winner](https://github.com/harshr3107/DSA-/tree/master/0486-predict-the-winner) |
 | [0633-sum-of-square-numbers](https://github.com/harshr3107/DSA-/tree/master/0633-sum-of-square-numbers) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/harshr3107/DSA-/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2409-count-days-spent-together](https://github.com/harshr3107/DSA-/tree/master/2409-count-days-spent-together) |
@@ -494,4 +498,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/harshr3107/DSA-/tree/master/0399-evaluate-division) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/harshr3107/DSA-/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/harshr3107/DSA-/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/harshr3107/DSA-/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
