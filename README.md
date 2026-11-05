@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/harshr3107/DSA-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/harshr3107/DSA-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/harshr3107/DSA-/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/harshr3107/DSA-/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/harshr3107/DSA-/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/harshr3107/DSA-/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/harshr3107/DSA-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/harshr3107/DSA-/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2560-house-robber-iv](https://github.com/harshr3107/DSA-/tree/master/2560-house-robber-iv) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/harshr3107/DSA-/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/harshr3107/DSA-/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/harshr3107/DSA-/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 | [3665-twisted-mirror-path-count](https://github.com/harshr3107/DSA-/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/harshr3107/DSA-/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/harshr3107/DSA-/tree/master/0279-perfect-squares) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/harshr3107/DSA-/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -530,4 +533,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/harshr3107/DSA-/tree/master/0300-longest-increasing-subsequence) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/harshr3107/DSA-/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 <!---LeetCode Topics End-->
