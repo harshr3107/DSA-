@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2019-the-score-of-students-solving-math-expression](https://github.com/harshr3107/DSA-/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/harshr3107/DSA-/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2232-minimize-result-by-adding-parentheses-to-expression](https://github.com/harshr3107/DSA-/tree/master/2232-minimize-result-by-adding-parentheses-to-expression) |
+| [2370-longest-ideal-subsequence](https://github.com/harshr3107/DSA-/tree/master/2370-longest-ideal-subsequence) |
 | [2409-count-days-spent-together](https://github.com/harshr3107/DSA-/tree/master/2409-count-days-spent-together) |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/harshr3107/DSA-/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/harshr3107/DSA-/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/harshr3107/DSA-/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/harshr3107/DSA-/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/harshr3107/DSA-/tree/master/2062-count-vowel-substrings-of-a-string) |
+| [2370-longest-ideal-subsequence](https://github.com/harshr3107/DSA-/tree/master/2370-longest-ideal-subsequence) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/harshr3107/DSA-/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/harshr3107/DSA-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Stack
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1947-maximum-compatibility-score-sum](https://github.com/harshr3107/DSA-/tree/master/1947-maximum-compatibility-score-sum) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/harshr3107/DSA-/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/harshr3107/DSA-/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2370-longest-ideal-subsequence](https://github.com/harshr3107/DSA-/tree/master/2370-longest-ideal-subsequence) |
 | [2560-house-robber-iv](https://github.com/harshr3107/DSA-/tree/master/2560-house-robber-iv) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/harshr3107/DSA-/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/harshr3107/DSA-/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
