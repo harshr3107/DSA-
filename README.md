@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/harshr3107/DSA-/tree/master/0931-minimum-falling-path-sum) |
 | [1254-number-of-closed-islands](https://github.com/harshr3107/DSA-/tree/master/1254-number-of-closed-islands) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/harshr3107/DSA-/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1386-cinema-seat-allocation](https://github.com/harshr3107/DSA-/tree/master/1386-cinema-seat-allocation) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/harshr3107/DSA-/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/harshr3107/DSA-/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1631-path-with-minimum-effort](https://github.com/harshr3107/DSA-/tree/master/1631-path-with-minimum-effort) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/harshr3107/DSA-/tree/master/0526-beautiful-arrangement) |
+| [1386-cinema-seat-allocation](https://github.com/harshr3107/DSA-/tree/master/1386-cinema-seat-allocation) |
 | [1947-maximum-compatibility-score-sum](https://github.com/harshr3107/DSA-/tree/master/1947-maximum-compatibility-score-sum) |
 | [2397-maximum-rows-covered-by-columns](https://github.com/harshr3107/DSA-/tree/master/2397-maximum-rows-covered-by-columns) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/harshr3107/DSA-/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/harshr3107/DSA-/tree/master/0264-ugly-number-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/harshr3107/DSA-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/harshr3107/DSA-/tree/master/0567-permutation-in-string) |
+| [1386-cinema-seat-allocation](https://github.com/harshr3107/DSA-/tree/master/1386-cinema-seat-allocation) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/harshr3107/DSA-/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/harshr3107/DSA-/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/harshr3107/DSA-/tree/master/2062-count-vowel-substrings-of-a-string) |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/harshr3107/DSA-/tree/master/0011-container-with-most-water) |
 | [0376-wiggle-subsequence](https://github.com/harshr3107/DSA-/tree/master/0376-wiggle-subsequence) |
+| [1386-cinema-seat-allocation](https://github.com/harshr3107/DSA-/tree/master/1386-cinema-seat-allocation) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/harshr3107/DSA-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/harshr3107/DSA-/tree/master/1833-maximum-ice-cream-bars) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/harshr3107/DSA-/tree/master/2333-minimum-sum-of-squared-difference) |
