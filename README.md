@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/harshr3107/DSA-/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/harshr3107/DSA-/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/harshr3107/DSA-/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/harshr3107/DSA-/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/harshr3107/DSA-/tree/master/0112-path-sum) |
 | [0127-word-ladder](https://github.com/harshr3107/DSA-/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/harshr3107/DSA-/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/harshr3107/DSA-/tree/master/0207-course-schedule) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/harshr3107/DSA-/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/harshr3107/DSA-/tree/master/0096-unique-binary-search-trees) |
+| [0112-path-sum](https://github.com/harshr3107/DSA-/tree/master/0112-path-sum) |
 | [0337-house-robber-iii](https://github.com/harshr3107/DSA-/tree/master/0337-house-robber-iii) |
 | [0894-all-possible-full-binary-trees](https://github.com/harshr3107/DSA-/tree/master/0894-all-possible-full-binary-trees) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/harshr3107/DSA-/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/harshr3107/DSA-/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/harshr3107/DSA-/tree/master/0096-unique-binary-search-trees) |
+| [0112-path-sum](https://github.com/harshr3107/DSA-/tree/master/0112-path-sum) |
 | [0337-house-robber-iii](https://github.com/harshr3107/DSA-/tree/master/0337-house-robber-iii) |
 | [0894-all-possible-full-binary-trees](https://github.com/harshr3107/DSA-/tree/master/0894-all-possible-full-binary-trees) |
 ## Topological Sort
