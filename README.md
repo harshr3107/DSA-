@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/harshr3107/DSA-/tree/master/0437-path-sum-iii) |
 | [0472-concatenated-words](https://github.com/harshr3107/DSA-/tree/master/0472-concatenated-words) |
 | [0547-number-of-provinces](https://github.com/harshr3107/DSA-/tree/master/0547-number-of-provinces) |
+| [0687-longest-univalue-path](https://github.com/harshr3107/DSA-/tree/master/0687-longest-univalue-path) |
 | [0733-flood-fill](https://github.com/harshr3107/DSA-/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/harshr3107/DSA-/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/harshr3107/DSA-/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/harshr3107/DSA-/tree/master/0113-path-sum-ii) |
 | [0337-house-robber-iii](https://github.com/harshr3107/DSA-/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/harshr3107/DSA-/tree/master/0437-path-sum-iii) |
+| [0687-longest-univalue-path](https://github.com/harshr3107/DSA-/tree/master/0687-longest-univalue-path) |
 | [0894-all-possible-full-binary-trees](https://github.com/harshr3107/DSA-/tree/master/0894-all-possible-full-binary-trees) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/harshr3107/DSA-/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/harshr3107/DSA-/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/harshr3107/DSA-/tree/master/0113-path-sum-ii) |
 | [0337-house-robber-iii](https://github.com/harshr3107/DSA-/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/harshr3107/DSA-/tree/master/0437-path-sum-iii) |
+| [0687-longest-univalue-path](https://github.com/harshr3107/DSA-/tree/master/0687-longest-univalue-path) |
 | [0894-all-possible-full-binary-trees](https://github.com/harshr3107/DSA-/tree/master/0894-all-possible-full-binary-trees) |
 ## Topological Sort
 |  |
@@ -476,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/harshr3107/DSA-/tree/master/0337-house-robber-iii) |
+| [0687-longest-univalue-path](https://github.com/harshr3107/DSA-/tree/master/0687-longest-univalue-path) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/harshr3107/DSA-/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 ## Strongly Connected Component
 |  |
