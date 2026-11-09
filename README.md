@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/harshr3107/DSA-/tree/master/0010-regular-expression-matching) |
 | [0038-count-and-say](https://github.com/harshr3107/DSA-/tree/master/0038-count-and-say) |
+| [0071-simplify-path](https://github.com/harshr3107/DSA-/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/harshr3107/DSA-/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/harshr3107/DSA-/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/harshr3107/DSA-/tree/master/0091-decode-ways) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/harshr3107/DSA-/tree/master/0071-simplify-path) |
 | [1021-remove-outermost-parentheses](https://github.com/harshr3107/DSA-/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/harshr3107/DSA-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/harshr3107/DSA-/tree/master/2019-the-score-of-students-solving-math-expression) |
