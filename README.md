@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/harshr3107/DSA-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/harshr3107/DSA-/tree/master/0011-container-with-most-water) |
 | [0139-word-break](https://github.com/harshr3107/DSA-/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/harshr3107/DSA-/tree/master/0140-word-break-ii) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/harshr3107/DSA-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0300-longest-increasing-subsequence](https://github.com/harshr3107/DSA-/tree/master/0300-longest-increasing-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/harshr3107/DSA-/tree/master/0633-sum-of-square-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/harshr3107/DSA-/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/harshr3107/DSA-/tree/master/0004-median-of-two-sorted-arrays) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/harshr3107/DSA-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Indexed Tree
 |  |
