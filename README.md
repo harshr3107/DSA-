@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/harshr3107/DSA-/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/harshr3107/DSA-/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/harshr3107/DSA-/tree/master/0733-flood-fill) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/harshr3107/DSA-/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0931-minimum-falling-path-sum](https://github.com/harshr3107/DSA-/tree/master/0931-minimum-falling-path-sum) |
 | [1254-number-of-closed-islands](https://github.com/harshr3107/DSA-/tree/master/1254-number-of-closed-islands) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/harshr3107/DSA-/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/harshr3107/DSA-/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harshr3107/DSA-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0633-sum-of-square-numbers](https://github.com/harshr3107/DSA-/tree/master/0633-sum-of-square-numbers) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/harshr3107/DSA-/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/harshr3107/DSA-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1631-path-with-minimum-effort](https://github.com/harshr3107/DSA-/tree/master/1631-path-with-minimum-effort) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/harshr3107/DSA-/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harshr3107/DSA-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0472-concatenated-words](https://github.com/harshr3107/DSA-/tree/master/0472-concatenated-words) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/harshr3107/DSA-/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/harshr3107/DSA-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1833-maximum-ice-cream-bars](https://github.com/harshr3107/DSA-/tree/master/1833-maximum-ice-cream-bars) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/harshr3107/DSA-/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/harshr3107/DSA-/tree/master/0264-ugly-number-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harshr3107/DSA-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/harshr3107/DSA-/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/harshr3107/DSA-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/harshr3107/DSA-/tree/master/1631-path-with-minimum-effort) |
 | [1882-process-tasks-using-servers](https://github.com/harshr3107/DSA-/tree/master/1882-process-tasks-using-servers) |
@@ -396,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/harshr3107/DSA-/tree/master/0011-container-with-most-water) |
 | [0567-permutation-in-string](https://github.com/harshr3107/DSA-/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/harshr3107/DSA-/tree/master/0633-sum-of-square-numbers) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/harshr3107/DSA-/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/harshr3107/DSA-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/harshr3107/DSA-/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1768-merge-strings-alternately](https://github.com/harshr3107/DSA-/tree/master/1768-merge-strings-alternately) |
