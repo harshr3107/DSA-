@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/harshr3107/DSA-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/harshr3107/DSA-/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3988-create-grid-with-exactly-k-paths-i](https://github.com/harshr3107/DSA-/tree/master/3988-create-grid-with-exactly-k-paths-i) |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/harshr3107/DSA-/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Backtracking
 |  |
 | ------- |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/harshr3107/DSA-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/harshr3107/DSA-/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3988-create-grid-with-exactly-k-paths-i](https://github.com/harshr3107/DSA-/tree/master/3988-create-grid-with-exactly-k-paths-i) |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/harshr3107/DSA-/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Two Pointers
 |  |
 | ------- |
