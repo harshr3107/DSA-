@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/harshr3107/DSA-/tree/master/0567-permutation-in-string) |
 | [1386-cinema-seat-allocation](https://github.com/harshr3107/DSA-/tree/master/1386-cinema-seat-allocation) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/harshr3107/DSA-/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [1797-design-authentication-manager](https://github.com/harshr3107/DSA-/tree/master/1797-design-authentication-manager) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/harshr3107/DSA-/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/harshr3107/DSA-/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/harshr3107/DSA-/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
@@ -617,4 +618,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/harshr3107/DSA-/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+## Linked List
+|  |
+| ------- |
+| [1797-design-authentication-manager](https://github.com/harshr3107/DSA-/tree/master/1797-design-authentication-manager) |
+## Design
+|  |
+| ------- |
+| [1797-design-authentication-manager](https://github.com/harshr3107/DSA-/tree/master/1797-design-authentication-manager) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1797-design-authentication-manager](https://github.com/harshr3107/DSA-/tree/master/1797-design-authentication-manager) |
 <!---LeetCode Topics End-->
