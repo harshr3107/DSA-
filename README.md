@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/harshr3107/DSA-/tree/master/1254-number-of-closed-islands) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/harshr3107/DSA-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/harshr3107/DSA-/tree/master/1386-cinema-seat-allocation) |
+| [1395-count-number-of-teams](https://github.com/harshr3107/DSA-/tree/master/1395-count-number-of-teams) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/harshr3107/DSA-/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/harshr3107/DSA-/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1631-path-with-minimum-effort](https://github.com/harshr3107/DSA-/tree/master/1631-path-with-minimum-effort) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0894-all-possible-full-binary-trees](https://github.com/harshr3107/DSA-/tree/master/0894-all-possible-full-binary-trees) |
 | [0931-minimum-falling-path-sum](https://github.com/harshr3107/DSA-/tree/master/0931-minimum-falling-path-sum) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/harshr3107/DSA-/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1395-count-number-of-teams](https://github.com/harshr3107/DSA-/tree/master/1395-count-number-of-teams) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/harshr3107/DSA-/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1947-maximum-compatibility-score-sum](https://github.com/harshr3107/DSA-/tree/master/1947-maximum-compatibility-score-sum) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/harshr3107/DSA-/tree/master/2019-the-score-of-students-solving-math-expression) |
@@ -569,10 +571,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [1395-count-number-of-teams](https://github.com/harshr3107/DSA-/tree/master/1395-count-number-of-teams) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/harshr3107/DSA-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
+| [1395-count-number-of-teams](https://github.com/harshr3107/DSA-/tree/master/1395-count-number-of-teams) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/harshr3107/DSA-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Bellman–Ford Algorithm
 |  |
