@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/harshr3107/DSA-/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0733-flood-fill](https://github.com/harshr3107/DSA-/tree/master/0733-flood-fill) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/harshr3107/DSA-/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/harshr3107/DSA-/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/harshr3107/DSA-/tree/master/0931-minimum-falling-path-sum) |
 | [1254-number-of-closed-islands](https://github.com/harshr3107/DSA-/tree/master/1254-number-of-closed-islands) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/harshr3107/DSA-/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/harshr3107/DSA-/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/harshr3107/DSA-/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/harshr3107/DSA-/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/harshr3107/DSA-/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0894-all-possible-full-binary-trees](https://github.com/harshr3107/DSA-/tree/master/0894-all-possible-full-binary-trees) |
 | [0931-minimum-falling-path-sum](https://github.com/harshr3107/DSA-/tree/master/0931-minimum-falling-path-sum) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/harshr3107/DSA-/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/harshr3107/DSA-/tree/master/0011-container-with-most-water) |
 | [0376-wiggle-subsequence](https://github.com/harshr3107/DSA-/tree/master/0376-wiggle-subsequence) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/harshr3107/DSA-/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1386-cinema-seat-allocation](https://github.com/harshr3107/DSA-/tree/master/1386-cinema-seat-allocation) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/harshr3107/DSA-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/harshr3107/DSA-/tree/master/1833-maximum-ice-cream-bars) |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harshr3107/DSA-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/harshr3107/DSA-/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/harshr3107/DSA-/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/harshr3107/DSA-/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1631-path-with-minimum-effort](https://github.com/harshr3107/DSA-/tree/master/1631-path-with-minimum-effort) |
 | [1882-process-tasks-using-servers](https://github.com/harshr3107/DSA-/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/harshr3107/DSA-/tree/master/2333-minimum-sum-of-squared-difference) |
