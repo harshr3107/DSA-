@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/harshr3107/DSA-/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/harshr3107/DSA-/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 | [3202-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/harshr3107/DSA-/tree/master/3202-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/harshr3107/DSA-/tree/master/3364-minimum-positive-sum-subarray) |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/harshr3107/DSA-/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
 | [3446-sort-matrix-by-diagonals](https://github.com/harshr3107/DSA-/tree/master/3446-sort-matrix-by-diagonals) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/harshr3107/DSA-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/harshr3107/DSA-/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
+| [3364-minimum-positive-sum-subarray](https://github.com/harshr3107/DSA-/tree/master/3364-minimum-positive-sum-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2555-maximize-win-from-two-segments](https://github.com/harshr3107/DSA-/tree/master/2555-maximize-win-from-two-segments) |
 | [2730-find-the-longest-semi-repetitive-substring](https://github.com/harshr3107/DSA-/tree/master/2730-find-the-longest-semi-repetitive-substring) |
 | [2747-count-zero-request-servers](https://github.com/harshr3107/DSA-/tree/master/2747-count-zero-request-servers) |
+| [3364-minimum-positive-sum-subarray](https://github.com/harshr3107/DSA-/tree/master/3364-minimum-positive-sum-subarray) |
 ## Bidirectional Search
 |  |
 | ------- |
