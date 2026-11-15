@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/harshr3107/DSA-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0472-concatenated-words](https://github.com/harshr3107/DSA-/tree/master/0472-concatenated-words) |
 | [0486-predict-the-winner](https://github.com/harshr3107/DSA-/tree/master/0486-predict-the-winner) |
+| [0525-contiguous-array](https://github.com/harshr3107/DSA-/tree/master/0525-contiguous-array) |
 | [0526-beautiful-arrangement](https://github.com/harshr3107/DSA-/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/harshr3107/DSA-/tree/master/0542-01-matrix) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/harshr3107/DSA-/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/harshr3107/DSA-/tree/master/0140-word-break-ii) |
 | [0264-ugly-number-ii](https://github.com/harshr3107/DSA-/tree/master/0264-ugly-number-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/harshr3107/DSA-/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0525-contiguous-array](https://github.com/harshr3107/DSA-/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/harshr3107/DSA-/tree/master/0567-permutation-in-string) |
 | [1386-cinema-seat-allocation](https://github.com/harshr3107/DSA-/tree/master/1386-cinema-seat-allocation) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/harshr3107/DSA-/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/harshr3107/DSA-/tree/master/0525-contiguous-array) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/harshr3107/DSA-/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [3364-minimum-positive-sum-subarray](https://github.com/harshr3107/DSA-/tree/master/3364-minimum-positive-sum-subarray) |
 ## Greedy
