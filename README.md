@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/harshr3107/DSA-/tree/master/0733-flood-fill) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/harshr3107/DSA-/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/harshr3107/DSA-/tree/master/0871-minimum-number-of-refueling-stops) |
+| [0930-binary-subarrays-with-sum](https://github.com/harshr3107/DSA-/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/harshr3107/DSA-/tree/master/0931-minimum-falling-path-sum) |
 | [1254-number-of-closed-islands](https://github.com/harshr3107/DSA-/tree/master/1254-number-of-closed-islands) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/harshr3107/DSA-/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/harshr3107/DSA-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0525-contiguous-array](https://github.com/harshr3107/DSA-/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/harshr3107/DSA-/tree/master/0567-permutation-in-string) |
+| [0930-binary-subarrays-with-sum](https://github.com/harshr3107/DSA-/tree/master/0930-binary-subarrays-with-sum) |
 | [1386-cinema-seat-allocation](https://github.com/harshr3107/DSA-/tree/master/1386-cinema-seat-allocation) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/harshr3107/DSA-/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1797-design-authentication-manager](https://github.com/harshr3107/DSA-/tree/master/1797-design-authentication-manager) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/harshr3107/DSA-/tree/master/0525-contiguous-array) |
+| [0930-binary-subarrays-with-sum](https://github.com/harshr3107/DSA-/tree/master/0930-binary-subarrays-with-sum) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/harshr3107/DSA-/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [3364-minimum-positive-sum-subarray](https://github.com/harshr3107/DSA-/tree/master/3364-minimum-positive-sum-subarray) |
 ## Greedy
@@ -496,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/harshr3107/DSA-/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/harshr3107/DSA-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/harshr3107/DSA-/tree/master/0567-permutation-in-string) |
+| [0930-binary-subarrays-with-sum](https://github.com/harshr3107/DSA-/tree/master/0930-binary-subarrays-with-sum) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/harshr3107/DSA-/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2555-maximize-win-from-two-segments](https://github.com/harshr3107/DSA-/tree/master/2555-maximize-win-from-two-segments) |
 | [2730-find-the-longest-semi-repetitive-substring](https://github.com/harshr3107/DSA-/tree/master/2730-find-the-longest-semi-repetitive-substring) |
