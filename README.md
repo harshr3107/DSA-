@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1992-find-all-groups-of-farmland](https://github.com/harshr3107/DSA-/tree/master/1992-find-all-groups-of-farmland) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/harshr3107/DSA-/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/harshr3107/DSA-/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/harshr3107/DSA-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/harshr3107/DSA-/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/harshr3107/DSA-/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/harshr3107/DSA-/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/harshr3107/DSA-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1947-maximum-compatibility-score-sum](https://github.com/harshr3107/DSA-/tree/master/1947-maximum-compatibility-score-sum) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/harshr3107/DSA-/tree/master/2019-the-score-of-students-solving-math-expression) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/harshr3107/DSA-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/harshr3107/DSA-/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2370-longest-ideal-subsequence](https://github.com/harshr3107/DSA-/tree/master/2370-longest-ideal-subsequence) |
 | [2560-house-robber-iv](https://github.com/harshr3107/DSA-/tree/master/2560-house-robber-iv) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/harshr3107/DSA-/tree/master/0633-sum-of-square-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/harshr3107/DSA-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/harshr3107/DSA-/tree/master/2019-the-score-of-students-solving-math-expression) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/harshr3107/DSA-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2409-count-days-spent-together](https://github.com/harshr3107/DSA-/tree/master/2409-count-days-spent-together) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/harshr3107/DSA-/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/harshr3107/DSA-/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -452,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/harshr3107/DSA-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/harshr3107/DSA-/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1768-merge-strings-alternately](https://github.com/harshr3107/DSA-/tree/master/1768-merge-strings-alternately) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/harshr3107/DSA-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Simulation
 |  |
 | ------- |
@@ -514,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/harshr3107/DSA-/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/harshr3107/DSA-/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/harshr3107/DSA-/tree/master/0930-binary-subarrays-with-sum) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/harshr3107/DSA-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/harshr3107/DSA-/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/harshr3107/DSA-/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2555-maximize-win-from-two-segments](https://github.com/harshr3107/DSA-/tree/master/2555-maximize-win-from-two-segments) |
