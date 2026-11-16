@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2019-the-score-of-students-solving-math-expression](https://github.com/harshr3107/DSA-/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/harshr3107/DSA-/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2232-minimize-result-by-adding-parentheses-to-expression](https://github.com/harshr3107/DSA-/tree/master/2232-minimize-result-by-adding-parentheses-to-expression) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/harshr3107/DSA-/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/harshr3107/DSA-/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2370-longest-ideal-subsequence](https://github.com/harshr3107/DSA-/tree/master/2370-longest-ideal-subsequence) |
 | [2409-count-days-spent-together](https://github.com/harshr3107/DSA-/tree/master/2409-count-days-spent-together) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/harshr3107/DSA-/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/harshr3107/DSA-/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/harshr3107/DSA-/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 ## Tree
 |  |
