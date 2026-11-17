@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/harshr3107/DSA-/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/harshr3107/DSA-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/harshr3107/DSA-/tree/master/1254-number-of-closed-islands) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/harshr3107/DSA-/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/harshr3107/DSA-/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/harshr3107/DSA-/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1631-path-with-minimum-effort](https://github.com/harshr3107/DSA-/tree/master/1631-path-with-minimum-effort) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/harshr3107/DSA-/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/harshr3107/DSA-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/harshr3107/DSA-/tree/master/1254-number-of-closed-islands) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/harshr3107/DSA-/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/harshr3107/DSA-/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/harshr3107/DSA-/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1631-path-with-minimum-effort](https://github.com/harshr3107/DSA-/tree/master/1631-path-with-minimum-effort) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/harshr3107/DSA-/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/harshr3107/DSA-/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/harshr3107/DSA-/tree/master/1254-number-of-closed-islands) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/harshr3107/DSA-/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/harshr3107/DSA-/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/harshr3107/DSA-/tree/master/1905-count-sub-islands) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/harshr3107/DSA-/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/harshr3107/DSA-/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/harshr3107/DSA-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/harshr3107/DSA-/tree/master/0797-all-paths-from-source-to-target) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/harshr3107/DSA-/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/harshr3107/DSA-/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/harshr3107/DSA-/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/harshr3107/DSA-/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
