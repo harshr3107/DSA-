@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/harshr3107/DSA-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/harshr3107/DSA-/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/harshr3107/DSA-/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/harshr3107/DSA-/tree/master/0037-sudoku-solver) |
 | [0139-word-break](https://github.com/harshr3107/DSA-/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/harshr3107/DSA-/tree/master/0140-word-break-ii) |
 | [0200-number-of-islands](https://github.com/harshr3107/DSA-/tree/master/0200-number-of-islands) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/harshr3107/DSA-/tree/master/0037-sudoku-solver) |
 | [0095-unique-binary-search-trees-ii](https://github.com/harshr3107/DSA-/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/harshr3107/DSA-/tree/master/0113-path-sum-ii) |
 | [0140-word-break-ii](https://github.com/harshr3107/DSA-/tree/master/0140-word-break-ii) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/harshr3107/DSA-/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/harshr3107/DSA-/tree/master/0037-sudoku-solver) |
 | [0200-number-of-islands](https://github.com/harshr3107/DSA-/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/harshr3107/DSA-/tree/master/0221-maximal-square) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/harshr3107/DSA-/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/harshr3107/DSA-/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/harshr3107/DSA-/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/harshr3107/DSA-/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/harshr3107/DSA-/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/harshr3107/DSA-/tree/master/0139-word-break) |
@@ -714,4 +718,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/harshr3107/DSA-/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/harshr3107/DSA-/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/harshr3107/DSA-/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
