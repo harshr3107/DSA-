@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2555-maximize-win-from-two-segments](https://github.com/harshr3107/DSA-/tree/master/2555-maximize-win-from-two-segments) |
 | [2560-house-robber-iv](https://github.com/harshr3107/DSA-/tree/master/2560-house-robber-iv) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/harshr3107/DSA-/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/harshr3107/DSA-/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
 | [2747-count-zero-request-servers](https://github.com/harshr3107/DSA-/tree/master/2747-count-zero-request-servers) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/harshr3107/DSA-/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/harshr3107/DSA-/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/harshr3107/DSA-/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2397-maximum-rows-covered-by-columns](https://github.com/harshr3107/DSA-/tree/master/2397-maximum-rows-covered-by-columns) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/harshr3107/DSA-/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/harshr3107/DSA-/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/harshr3107/DSA-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3446-sort-matrix-by-diagonals](https://github.com/harshr3107/DSA-/tree/master/3446-sort-matrix-by-diagonals) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/harshr3107/DSA-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/harshr3107/DSA-/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/harshr3107/DSA-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/harshr3107/DSA-/tree/master/2019-the-score-of-students-solving-math-expression) |
+| [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/harshr3107/DSA-/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/harshr3107/DSA-/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2370-longest-ideal-subsequence](https://github.com/harshr3107/DSA-/tree/master/2370-longest-ideal-subsequence) |
 | [2560-house-robber-iv](https://github.com/harshr3107/DSA-/tree/master/2560-house-robber-iv) |
+| [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/harshr3107/DSA-/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/harshr3107/DSA-/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/harshr3107/DSA-/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/harshr3107/DSA-/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -312,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1905-count-sub-islands](https://github.com/harshr3107/DSA-/tree/master/1905-count-sub-islands) |
 | [1992-find-all-groups-of-farmland](https://github.com/harshr3107/DSA-/tree/master/1992-find-all-groups-of-farmland) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/harshr3107/DSA-/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/harshr3107/DSA-/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/harshr3107/DSA-/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/harshr3107/DSA-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/harshr3107/DSA-/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
@@ -327,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/harshr3107/DSA-/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/harshr3107/DSA-/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/harshr3107/DSA-/tree/master/1905-count-sub-islands) |
+| [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/harshr3107/DSA-/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/harshr3107/DSA-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/harshr3107/DSA-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
@@ -430,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/harshr3107/DSA-/tree/master/1631-path-with-minimum-effort) |
 | [1882-process-tasks-using-servers](https://github.com/harshr3107/DSA-/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/harshr3107/DSA-/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/harshr3107/DSA-/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/harshr3107/DSA-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/harshr3107/DSA-/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Math
@@ -700,4 +707,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/harshr3107/DSA-/tree/master/2221-find-triangular-sum-of-an-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/harshr3107/DSA-/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
 <!---LeetCode Topics End-->
