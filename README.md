@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/harshr3107/DSA-/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 | [3202-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/harshr3107/DSA-/tree/master/3202-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/harshr3107/DSA-/tree/master/3364-minimum-positive-sum-subarray) |
+| [3371-identify-the-largest-outlier-in-an-array](https://github.com/harshr3107/DSA-/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/harshr3107/DSA-/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
 | [3446-sort-matrix-by-diagonals](https://github.com/harshr3107/DSA-/tree/master/3446-sort-matrix-by-diagonals) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/harshr3107/DSA-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-minimize-result-by-adding-parentheses-to-expression](https://github.com/harshr3107/DSA-/tree/master/2232-minimize-result-by-adding-parentheses-to-expression) |
 | [2397-maximum-rows-covered-by-columns](https://github.com/harshr3107/DSA-/tree/master/2397-maximum-rows-covered-by-columns) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/harshr3107/DSA-/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3371-identify-the-largest-outlier-in-an-array](https://github.com/harshr3107/DSA-/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/harshr3107/DSA-/tree/master/2747-count-zero-request-servers) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/harshr3107/DSA-/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/harshr3107/DSA-/tree/master/2910-minimum-number-of-groups-to-create-a-valid-assignment) |
+| [3371-identify-the-largest-outlier-in-an-array](https://github.com/harshr3107/DSA-/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/harshr3107/DSA-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Stack
 |  |
@@ -596,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/harshr3107/DSA-/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/harshr3107/DSA-/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [3371-identify-the-largest-outlier-in-an-array](https://github.com/harshr3107/DSA-/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 ## DP on Trees
 |  |
 | ------- |
