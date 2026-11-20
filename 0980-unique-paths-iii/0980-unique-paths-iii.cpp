@@ -12,7 +12,7 @@ public:
 
         if(grid[i][j]==2)
         {
-            cout<<"i entered here the value of total is "<<total<<endl;
+            //cout<<"i entered here the value of total is "<<total<<endl;
 
             if(total==1)
             {
@@ -91,7 +91,7 @@ public:
 
         int total=(m*n)-obs;
 
-        cout<<"initially number of cells we ned topass is "<<total<<endl;
+        //cout<<"initially number of cells we ned topass is "<<total<<endl;
 
         int i = temp.first;
         int j = temp.second;
