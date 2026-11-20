@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/harshr3107/DSA-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0472-concatenated-words](https://github.com/harshr3107/DSA-/tree/master/0472-concatenated-words) |
 | [0567-permutation-in-string](https://github.com/harshr3107/DSA-/tree/master/0567-permutation-in-string) |
+| [0721-accounts-merge](https://github.com/harshr3107/DSA-/tree/master/0721-accounts-merge) |
 | [1021-remove-outermost-parentheses](https://github.com/harshr3107/DSA-/tree/master/1021-remove-outermost-parentheses) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/harshr3107/DSA-/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/harshr3107/DSA-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/harshr3107/DSA-/tree/master/0542-01-matrix) |
 | [0713-subarray-product-less-than-k](https://github.com/harshr3107/DSA-/tree/master/0713-subarray-product-less-than-k) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/harshr3107/DSA-/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0721-accounts-merge](https://github.com/harshr3107/DSA-/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/harshr3107/DSA-/tree/master/0733-flood-fill) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/harshr3107/DSA-/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/harshr3107/DSA-/tree/master/0871-minimum-number-of-refueling-stops) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/harshr3107/DSA-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0525-contiguous-array](https://github.com/harshr3107/DSA-/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/harshr3107/DSA-/tree/master/0567-permutation-in-string) |
+| [0721-accounts-merge](https://github.com/harshr3107/DSA-/tree/master/0721-accounts-merge) |
 | [0930-binary-subarrays-with-sum](https://github.com/harshr3107/DSA-/tree/master/0930-binary-subarrays-with-sum) |
 | [1386-cinema-seat-allocation](https://github.com/harshr3107/DSA-/tree/master/1386-cinema-seat-allocation) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/harshr3107/DSA-/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/harshr3107/DSA-/tree/master/0472-concatenated-words) |
 | [0547-number-of-provinces](https://github.com/harshr3107/DSA-/tree/master/0547-number-of-provinces) |
 | [0687-longest-univalue-path](https://github.com/harshr3107/DSA-/tree/master/0687-longest-univalue-path) |
+| [0721-accounts-merge](https://github.com/harshr3107/DSA-/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/harshr3107/DSA-/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/harshr3107/DSA-/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/harshr3107/DSA-/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -318,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/harshr3107/DSA-/tree/master/0399-evaluate-division) |
 | [0542-01-matrix](https://github.com/harshr3107/DSA-/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/harshr3107/DSA-/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/harshr3107/DSA-/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/harshr3107/DSA-/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/harshr3107/DSA-/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/harshr3107/DSA-/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -343,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/harshr3107/DSA-/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/harshr3107/DSA-/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/harshr3107/DSA-/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/harshr3107/DSA-/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/harshr3107/DSA-/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/harshr3107/DSA-/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/harshr3107/DSA-/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -430,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harshr3107/DSA-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0472-concatenated-words](https://github.com/harshr3107/DSA-/tree/master/0472-concatenated-words) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/harshr3107/DSA-/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0721-accounts-merge](https://github.com/harshr3107/DSA-/tree/master/0721-accounts-merge) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/harshr3107/DSA-/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/harshr3107/DSA-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1833-maximum-ice-cream-bars](https://github.com/harshr3107/DSA-/tree/master/1833-maximum-ice-cream-bars) |
