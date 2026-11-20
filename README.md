@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/harshr3107/DSA-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/harshr3107/DSA-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/harshr3107/DSA-/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/harshr3107/DSA-/tree/master/2910-minimum-number-of-groups-to-create-a-valid-assignment) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/harshr3107/DSA-/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/harshr3107/DSA-/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/harshr3107/DSA-/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2641-cousins-in-binary-tree-ii](https://github.com/harshr3107/DSA-/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2747-count-zero-request-servers](https://github.com/harshr3107/DSA-/tree/master/2747-count-zero-request-servers) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/harshr3107/DSA-/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/harshr3107/DSA-/tree/master/2910-minimum-number-of-groups-to-create-a-valid-assignment) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/harshr3107/DSA-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Stack
 |  |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2560-house-robber-iv](https://github.com/harshr3107/DSA-/tree/master/2560-house-robber-iv) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/harshr3107/DSA-/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/harshr3107/DSA-/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/harshr3107/DSA-/tree/master/2910-minimum-number-of-groups-to-create-a-valid-assignment) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/harshr3107/DSA-/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/harshr3107/DSA-/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/harshr3107/DSA-/tree/master/3789-minimum-cost-to-acquire-required-items) |
