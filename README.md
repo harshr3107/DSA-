@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/harshr3107/DSA-/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/harshr3107/DSA-/tree/master/0733-flood-fill) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/harshr3107/DSA-/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0827-making-a-large-island](https://github.com/harshr3107/DSA-/tree/master/0827-making-a-large-island) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/harshr3107/DSA-/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0930-binary-subarrays-with-sum](https://github.com/harshr3107/DSA-/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/harshr3107/DSA-/tree/master/0931-minimum-falling-path-sum) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harshr3107/DSA-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/harshr3107/DSA-/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/harshr3107/DSA-/tree/master/0733-flood-fill) |
+| [0827-making-a-large-island](https://github.com/harshr3107/DSA-/tree/master/0827-making-a-large-island) |
 | [0931-minimum-falling-path-sum](https://github.com/harshr3107/DSA-/tree/master/0931-minimum-falling-path-sum) |
 | [0980-unique-paths-iii](https://github.com/harshr3107/DSA-/tree/master/0980-unique-paths-iii) |
 | [1254-number-of-closed-islands](https://github.com/harshr3107/DSA-/tree/master/1254-number-of-closed-islands) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/harshr3107/DSA-/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/harshr3107/DSA-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/harshr3107/DSA-/tree/master/0797-all-paths-from-source-to-target) |
+| [0827-making-a-large-island](https://github.com/harshr3107/DSA-/tree/master/0827-making-a-large-island) |
 | [0993-cousins-in-binary-tree](https://github.com/harshr3107/DSA-/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/harshr3107/DSA-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/harshr3107/DSA-/tree/master/1254-number-of-closed-islands) |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/harshr3107/DSA-/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/harshr3107/DSA-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/harshr3107/DSA-/tree/master/0797-all-paths-from-source-to-target) |
+| [0827-making-a-large-island](https://github.com/harshr3107/DSA-/tree/master/0827-making-a-large-island) |
 | [0993-cousins-in-binary-tree](https://github.com/harshr3107/DSA-/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/harshr3107/DSA-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/harshr3107/DSA-/tree/master/1254-number-of-closed-islands) |
@@ -350,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/harshr3107/DSA-/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/harshr3107/DSA-/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/harshr3107/DSA-/tree/master/0785-is-graph-bipartite) |
+| [0827-making-a-large-island](https://github.com/harshr3107/DSA-/tree/master/0827-making-a-large-island) |
 | [1254-number-of-closed-islands](https://github.com/harshr3107/DSA-/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/harshr3107/DSA-/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/harshr3107/DSA-/tree/master/1631-path-with-minimum-effort) |
