@@ -1,64 +1,69 @@
+class compare
+{
+      public: 
+
+      bool operator()(pair<int,string>& a,pair<int,string>& b)
+      {
+          return a.first>b.first;
+      }
+
+
+};
+
+
+
+
 class Solution {
 public:
     int ladderLength(string beginWord, string endWord, vector<string>& wordList) {
 
-        
+           unordered_set<string> s;
 
+           for(auto it: wordList)
+           {
+              s.insert(it);
+           }
 
-        queue<pair<string,int>> q;
-        q.push(make_pair(beginWord,1));
+           priority_queue<pair<int,string>,vector<pair<int,string>>,compare> pq;
 
-        unordered_set<string> visited;
-        visited.insert(beginWord);
+           pq.push(make_pair(1,beginWord));
+           s.erase(beginWord);
 
-        unordered_set<string> words;
+           while(!pq.empty())
+           {
 
-        for(auto it: wordList)
-        {
-            words.insert(it);
-        }
+              auto it = pq.top();
+              pq.pop();
+              string cword = it.second;
+              int cstep = it.first;
 
-        while(!q.empty())
-        {
-            auto it  = q.front();
-            string h = it.first;
-            int l = it.second;
-            q.pop();
+              if(cword==endWord)
+              {
+                return cstep;
+              }
 
-            cout<<"value of string is "<<h<<" at level "<<l<<endl;
-
-            if(h==endWord)
-            {
-                return l;
-            }
-
-
-
-            for(int i=0;i<h.length();i++)
-            {
-                for(char a='a';a<='z';a++)
-                {
-                     string temp = h;
+              for(int i=0;i<cword.length();i++)
+              {
+                 for(char a='a';a<='z';a++)
+                 {
+                     string temp = cword;
                      temp.at(i)=a;
-
-                     if(visited.find(temp)==visited.end() && words.find(temp)!=words.end())
+                     if(s.find(temp)!=s.end())
                      {
-                        visited.insert(temp);
-                        q.push(make_pair(temp,l+1));
+                        s.erase(temp);
+                        pq.push(make_pair(cstep+1,temp));
                      }
 
 
-                }
+                 }
+
+              }
 
 
-            }
 
+           }
 
-        }
-
-
-        return 0;
-
+           return 0;
         
     }
 };
