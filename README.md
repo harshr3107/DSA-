@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/harshr3107/DSA-/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/harshr3107/DSA-/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/harshr3107/DSA-/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/harshr3107/DSA-/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2397-maximum-rows-covered-by-columns](https://github.com/harshr3107/DSA-/tree/master/2397-maximum-rows-covered-by-columns) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/harshr3107/DSA-/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/harshr3107/DSA-/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-maximum-score-from-removing-stones](https://github.com/harshr3107/DSA-/tree/master/1753-maximum-score-from-removing-stones) |
 | [1833-maximum-ice-cream-bars](https://github.com/harshr3107/DSA-/tree/master/1833-maximum-ice-cream-bars) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/harshr3107/DSA-/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/harshr3107/DSA-/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/harshr3107/DSA-/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2560-house-robber-iv](https://github.com/harshr3107/DSA-/tree/master/2560-house-robber-iv) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/harshr3107/DSA-/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/harshr3107/DSA-/tree/master/1833-maximum-ice-cream-bars) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/harshr3107/DSA-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/harshr3107/DSA-/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/harshr3107/DSA-/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/harshr3107/DSA-/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/harshr3107/DSA-/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/harshr3107/DSA-/tree/master/2747-count-zero-request-servers) |
@@ -481,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-maximum-score-from-removing-stones](https://github.com/harshr3107/DSA-/tree/master/1753-maximum-score-from-removing-stones) |
 | [1882-process-tasks-using-servers](https://github.com/harshr3107/DSA-/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/harshr3107/DSA-/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/harshr3107/DSA-/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/harshr3107/DSA-/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/harshr3107/DSA-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/harshr3107/DSA-/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
