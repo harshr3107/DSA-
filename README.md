@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/harshr3107/DSA-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/harshr3107/DSA-/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2397-maximum-rows-covered-by-columns](https://github.com/harshr3107/DSA-/tree/master/2397-maximum-rows-covered-by-columns) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/harshr3107/DSA-/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/harshr3107/DSA-/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/harshr3107/DSA-/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/harshr3107/DSA-/tree/master/2517-maximum-tastiness-of-candy-basket) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/harshr3107/DSA-/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/harshr3107/DSA-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/harshr3107/DSA-/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/harshr3107/DSA-/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [3364-minimum-positive-sum-subarray](https://github.com/harshr3107/DSA-/tree/master/3364-minimum-positive-sum-subarray) |
 ## Greedy
 |  |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/harshr3107/DSA-/tree/master/1833-maximum-ice-cream-bars) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/harshr3107/DSA-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/harshr3107/DSA-/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/harshr3107/DSA-/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/harshr3107/DSA-/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2560-house-robber-iv](https://github.com/harshr3107/DSA-/tree/master/2560-house-robber-iv) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/harshr3107/DSA-/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/harshr3107/DSA-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/harshr3107/DSA-/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/harshr3107/DSA-/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/harshr3107/DSA-/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/harshr3107/DSA-/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2555-maximize-win-from-two-segments](https://github.com/harshr3107/DSA-/tree/master/2555-maximize-win-from-two-segments) |
 | [2560-house-robber-iv](https://github.com/harshr3107/DSA-/tree/master/2560-house-robber-iv) |
@@ -465,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/harshr3107/DSA-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/harshr3107/DSA-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/harshr3107/DSA-/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/harshr3107/DSA-/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/harshr3107/DSA-/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/harshr3107/DSA-/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/harshr3107/DSA-/tree/master/2747-count-zero-request-servers) |
