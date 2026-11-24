@@ -420,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/harshr3107/DSA-/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1386-cinema-seat-allocation](https://github.com/harshr3107/DSA-/tree/master/1386-cinema-seat-allocation) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/harshr3107/DSA-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1753-maximum-score-from-removing-stones](https://github.com/harshr3107/DSA-/tree/master/1753-maximum-score-from-removing-stones) |
 | [1833-maximum-ice-cream-bars](https://github.com/harshr3107/DSA-/tree/master/1833-maximum-ice-cream-bars) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/harshr3107/DSA-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/harshr3107/DSA-/tree/master/2517-maximum-tastiness-of-candy-basket) |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-minimum-number-of-refueling-stops](https://github.com/harshr3107/DSA-/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/harshr3107/DSA-/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1631-path-with-minimum-effort](https://github.com/harshr3107/DSA-/tree/master/1631-path-with-minimum-effort) |
+| [1753-maximum-score-from-removing-stones](https://github.com/harshr3107/DSA-/tree/master/1753-maximum-score-from-removing-stones) |
 | [1882-process-tasks-using-servers](https://github.com/harshr3107/DSA-/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/harshr3107/DSA-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/harshr3107/DSA-/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/harshr3107/DSA-/tree/master/0486-predict-the-winner) |
 | [0633-sum-of-square-numbers](https://github.com/harshr3107/DSA-/tree/master/0633-sum-of-square-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/harshr3107/DSA-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1753-maximum-score-from-removing-stones](https://github.com/harshr3107/DSA-/tree/master/1753-maximum-score-from-removing-stones) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/harshr3107/DSA-/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/harshr3107/DSA-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/harshr3107/DSA-/tree/master/2221-find-triangular-sum-of-an-array) |
