@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/harshr3107/DSA-/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/harshr3107/DSA-/tree/master/0140-word-break-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/harshr3107/DSA-/tree/master/0241-different-ways-to-add-parentheses) |
+| [0318-maximum-product-of-word-lengths](https://github.com/harshr3107/DSA-/tree/master/0318-maximum-product-of-word-lengths) |
 | [0399-evaluate-division](https://github.com/harshr3107/DSA-/tree/master/0399-evaluate-division) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/harshr3107/DSA-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0472-concatenated-words](https://github.com/harshr3107/DSA-/tree/master/0472-concatenated-words) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/harshr3107/DSA-/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/harshr3107/DSA-/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/harshr3107/DSA-/tree/master/0300-longest-increasing-subsequence) |
+| [0318-maximum-product-of-word-lengths](https://github.com/harshr3107/DSA-/tree/master/0318-maximum-product-of-word-lengths) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/harshr3107/DSA-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0376-wiggle-subsequence](https://github.com/harshr3107/DSA-/tree/master/0376-wiggle-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harshr3107/DSA-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0318-maximum-product-of-word-lengths](https://github.com/harshr3107/DSA-/tree/master/0318-maximum-product-of-word-lengths) |
 | [0526-beautiful-arrangement](https://github.com/harshr3107/DSA-/tree/master/0526-beautiful-arrangement) |
 | [0980-unique-paths-iii](https://github.com/harshr3107/DSA-/tree/master/0980-unique-paths-iii) |
 | [1386-cinema-seat-allocation](https://github.com/harshr3107/DSA-/tree/master/1386-cinema-seat-allocation) |
