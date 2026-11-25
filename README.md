@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/harshr3107/DSA-/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/harshr3107/DSA-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/harshr3107/DSA-/tree/master/1616-split-two-strings-to-make-palindrome) |
+| [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/harshr3107/DSA-/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1768-merge-strings-alternately](https://github.com/harshr3107/DSA-/tree/master/1768-merge-strings-alternately) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/harshr3107/DSA-/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/harshr3107/DSA-/tree/master/2062-count-vowel-substrings-of-a-string) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/harshr3107/DSA-/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/harshr3107/DSA-/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1631-path-with-minimum-effort](https://github.com/harshr3107/DSA-/tree/master/1631-path-with-minimum-effort) |
+| [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/harshr3107/DSA-/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1833-maximum-ice-cream-bars](https://github.com/harshr3107/DSA-/tree/master/1833-maximum-ice-cream-bars) |
 | [1882-process-tasks-using-servers](https://github.com/harshr3107/DSA-/tree/master/1882-process-tasks-using-servers) |
 | [1905-count-sub-islands](https://github.com/harshr3107/DSA-/tree/master/1905-count-sub-islands) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1395-count-number-of-teams](https://github.com/harshr3107/DSA-/tree/master/1395-count-number-of-teams) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/harshr3107/DSA-/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/harshr3107/DSA-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/harshr3107/DSA-/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1947-maximum-compatibility-score-sum](https://github.com/harshr3107/DSA-/tree/master/1947-maximum-compatibility-score-sum) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/harshr3107/DSA-/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/harshr3107/DSA-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
