@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/harshr3107/DSA-/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/harshr3107/DSA-/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/harshr3107/DSA-/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2551-put-marbles-in-bags](https://github.com/harshr3107/DSA-/tree/master/2551-put-marbles-in-bags) |
 | [2555-maximize-win-from-two-segments](https://github.com/harshr3107/DSA-/tree/master/2555-maximize-win-from-two-segments) |
 | [2560-house-robber-iv](https://github.com/harshr3107/DSA-/tree/master/2560-house-robber-iv) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/harshr3107/DSA-/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/harshr3107/DSA-/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/harshr3107/DSA-/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/harshr3107/DSA-/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2551-put-marbles-in-bags](https://github.com/harshr3107/DSA-/tree/master/2551-put-marbles-in-bags) |
 | [2560-house-robber-iv](https://github.com/harshr3107/DSA-/tree/master/2560-house-robber-iv) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/harshr3107/DSA-/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/harshr3107/DSA-/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/harshr3107/DSA-/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/harshr3107/DSA-/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/harshr3107/DSA-/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2551-put-marbles-in-bags](https://github.com/harshr3107/DSA-/tree/master/2551-put-marbles-in-bags) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/harshr3107/DSA-/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/harshr3107/DSA-/tree/master/2747-count-zero-request-servers) |
 | [3446-sort-matrix-by-diagonals](https://github.com/harshr3107/DSA-/tree/master/3446-sort-matrix-by-diagonals) |
@@ -498,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1882-process-tasks-using-servers](https://github.com/harshr3107/DSA-/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/harshr3107/DSA-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/harshr3107/DSA-/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2551-put-marbles-in-bags](https://github.com/harshr3107/DSA-/tree/master/2551-put-marbles-in-bags) |
 | [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/harshr3107/DSA-/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/harshr3107/DSA-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/harshr3107/DSA-/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
