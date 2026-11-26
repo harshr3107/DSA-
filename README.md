@@ -520,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-find-triangular-sum-of-an-array](https://github.com/harshr3107/DSA-/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2409-count-days-spent-together](https://github.com/harshr3107/DSA-/tree/master/2409-count-days-spent-together) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/harshr3107/DSA-/tree/master/2750-ways-to-split-array-into-good-subarrays) |
+| [3360-stone-removal-game](https://github.com/harshr3107/DSA-/tree/master/3360-stone-removal-game) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/harshr3107/DSA-/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/harshr3107/DSA-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/harshr3107/DSA-/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -544,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-find-triangular-sum-of-an-array](https://github.com/harshr3107/DSA-/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/harshr3107/DSA-/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/harshr3107/DSA-/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [3360-stone-removal-game](https://github.com/harshr3107/DSA-/tree/master/3360-stone-removal-game) |
 ## Tree
 |  |
 | ------- |
