@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harshr3107/DSA-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0399-evaluate-division](https://github.com/harshr3107/DSA-/tree/master/0399-evaluate-division) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/harshr3107/DSA-/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0456-132-pattern](https://github.com/harshr3107/DSA-/tree/master/0456-132-pattern) |
 | [0472-concatenated-words](https://github.com/harshr3107/DSA-/tree/master/0472-concatenated-words) |
 | [0486-predict-the-winner](https://github.com/harshr3107/DSA-/tree/master/0486-predict-the-winner) |
 | [0525-contiguous-array](https://github.com/harshr3107/DSA-/tree/master/0525-contiguous-array) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/harshr3107/DSA-/tree/master/0071-simplify-path) |
+| [0456-132-pattern](https://github.com/harshr3107/DSA-/tree/master/0456-132-pattern) |
 | [1021-remove-outermost-parentheses](https://github.com/harshr3107/DSA-/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/harshr3107/DSA-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/harshr3107/DSA-/tree/master/2019-the-score-of-students-solving-math-expression) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/harshr3107/DSA-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0300-longest-increasing-subsequence](https://github.com/harshr3107/DSA-/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harshr3107/DSA-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0456-132-pattern](https://github.com/harshr3107/DSA-/tree/master/0456-132-pattern) |
 | [0633-sum-of-square-numbers](https://github.com/harshr3107/DSA-/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/harshr3107/DSA-/tree/master/0713-subarray-product-less-than-k) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/harshr3107/DSA-/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -788,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/harshr3107/DSA-/tree/master/0456-132-pattern) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/harshr3107/DSA-/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 ## Number Theory
 |  |
@@ -796,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/harshr3107/DSA-/tree/master/0456-132-pattern) |
 | [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/harshr3107/DSA-/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/harshr3107/DSA-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Algorithm X
