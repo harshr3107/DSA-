@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/harshr3107/DSA-/tree/master/2910-minimum-number-of-groups-to-create-a-valid-assignment) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/harshr3107/DSA-/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/harshr3107/DSA-/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/harshr3107/DSA-/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/harshr3107/DSA-/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 | [3202-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/harshr3107/DSA-/tree/master/3202-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/harshr3107/DSA-/tree/master/3364-minimum-positive-sum-subarray) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/harshr3107/DSA-/tree/master/1386-cinema-seat-allocation) |
 | [1947-maximum-compatibility-score-sum](https://github.com/harshr3107/DSA-/tree/master/1947-maximum-compatibility-score-sum) |
 | [2397-maximum-rows-covered-by-columns](https://github.com/harshr3107/DSA-/tree/master/2397-maximum-rows-covered-by-columns) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/harshr3107/DSA-/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/harshr3107/DSA-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/harshr3107/DSA-/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Matrix
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/harshr3107/DSA-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/harshr3107/DSA-/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/harshr3107/DSA-/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/harshr3107/DSA-/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/harshr3107/DSA-/tree/master/3364-minimum-positive-sum-subarray) |
 ## Greedy
 |  |
@@ -628,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2555-maximize-win-from-two-segments](https://github.com/harshr3107/DSA-/tree/master/2555-maximize-win-from-two-segments) |
 | [2730-find-the-longest-semi-repetitive-substring](https://github.com/harshr3107/DSA-/tree/master/2730-find-the-longest-semi-repetitive-substring) |
 | [2747-count-zero-request-servers](https://github.com/harshr3107/DSA-/tree/master/2747-count-zero-request-servers) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/harshr3107/DSA-/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/harshr3107/DSA-/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/harshr3107/DSA-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Bidirectional Search
@@ -818,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/harshr3107/DSA-/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/harshr3107/DSA-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Queue
 |  |
